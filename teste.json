@@ -1,0 +1,20 @@
+{
+  "1": {
+    "id": 1,
+    "nome": "Dimmers",
+    "pino": "V36",
+    "token": "kgWb3_seuTokenAqui_g6utfdG35"
+  },
+  "2": {
+    "id": 2,
+    "nome": "Reles",
+    "pino": "V18",
+    "token": "WN5BC1a_seuTokenAqui_tuCXv7_"
+  },
+  "3": {
+    "id": 3,
+    "nome": "Cozinha",
+    "pino": "V0",
+    "token": "9c8z_seuTokenAqui_0ophfllYL"
+  }
+}
